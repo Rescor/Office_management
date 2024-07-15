@@ -1,7 +1,7 @@
 #  Office ERP
 
 ## 1. Create database
-You need to create a database and execute a dump from create_db.sql to it.
+You need to create a database and execute a dump from /database/create_db.sql to it.
 
 ## 2. Run the backend
 You need to write your database credentials into /server/db.js
