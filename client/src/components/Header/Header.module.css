@@ -1,0 +1,24 @@
+.header {
+  background-color: rgba(0,0,0,0.7);
+  backdrop-filter: blur(5px);
+  display: flex;
+  align-items: center;
+  padding: 15px 20px;
+}
+
+.logo_button {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.logo_image {
+  width: 45px;
+}
+
+.title {
+  margin: 0 17px;
+  font-size: 32px;
+  font-weight: 400;
+  color: rgb(215, 211, 211);
+}

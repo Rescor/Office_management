@@ -1,0 +1,14 @@
+.success_notify {
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(5px);
+  margin-top: 10px;
+  padding: 1px 30px 30px;
+  width: 27%;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.title {
+  color: #0cb80c;
+  margin-bottom: 40px;
+}
